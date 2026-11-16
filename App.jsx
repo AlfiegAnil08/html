@@ -1,6 +1,7 @@
 import Header from './header'
 import Navbar from './navbar'
 import Footer from './footer'
+import Welcome from './welcome';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Navbar />
       <Footer />
+      <Welcome />
     </div>
 
   );
