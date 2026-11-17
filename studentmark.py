@@ -1,0 +1,9 @@
+s1=70
+s2=60
+s3=80
+s4=90
+s5=100
+totalmark=s1+s2+s3+s4+s5
+averagemark=totalmark/5
+print("totalmark")
+print("averagemark")
